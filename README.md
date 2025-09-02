@@ -22,3 +22,11 @@ Ce projet applique la théorie des automates en la traduisant dans une applicati
 - Affichage clair du **diagramme états-transitions** en console.  
 - Validation de chaînes binaires (`0` et `1`) saisies par l’utilisateur.  
 - Messages explicites pour indiquer si la chaîne est **acceptée** ou **rejetée** .
+
+# Pour l'execution
+
+Assurez-vous d’avoir le SDK .NET installé. Puis exécutez :
+
+git clone https://github.com/joy843/AutomateS.git
+cd AutomateS
+dotnet run 
