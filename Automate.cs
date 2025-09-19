@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace PIF1006_tp1
+namespace AutomateS
 {
     public class Automate
     {
