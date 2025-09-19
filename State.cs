@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PIF1006_tp1
+namespace AutomateS
 {
     
     public class State
